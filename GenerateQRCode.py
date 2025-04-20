@@ -1,6 +1,6 @@
 """GenerateQRCode.py
 
-Author: James Buntwal (BuntwalJ@aol.co.uk)
+Author: James Buntwal (James@Buntwal.com)
 
 Description: 
 
